@@ -10,7 +10,7 @@ public class Geometry {
         Square.printSquareArea (10);
         Square.printSquareArea (100);
 
-        Rectangle.printRectangleArea (3.0, 5.5);
+        Rectangle.printRectangleArea (4.0, 5.5);
     }
 
 }
