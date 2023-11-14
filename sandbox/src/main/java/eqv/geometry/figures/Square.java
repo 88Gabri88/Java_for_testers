@@ -3,7 +3,7 @@ package eqv.geometry.figures;
 public class Square {
     public static void printSquareArea(double a) {
         String text = String.format("Площадь квадрата со стороной %f = %f", a, Area(a));
-        System.out.printf(text);
+        System.out.println(text);
     }
 
     private static double Area(double a) {
